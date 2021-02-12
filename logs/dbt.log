@@ -2812,3 +2812,5 @@ Done. PASS=3 WARN=0 ERROR=0 SKIP=0 TOTAL=3
 2021-02-11 23:15:25.875273 (MainThread): Press Ctrl+C to exit.
 
 
+2021-02-12 00:09:42.048798 (MainThread): Flushing usage events
+2021-02-12 00:09:42.714764 (MainThread): ctrl-c
